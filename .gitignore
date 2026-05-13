@@ -1,0 +1,3 @@
+venv/
+**/venv/ 
+# o **/venv/ este comando significa que em qualquer lugar que esta pasta estiver é para ignorar
